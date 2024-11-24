@@ -24,4 +24,4 @@ The game is built using a class-based structure:
 
 The following flowchart illustrates the flow of the Rock-Paper-Scissors game:
 
-![Flowchart]()
+![Flowchart](https://github.com/notshawky007/rock-paper-scissors-game/blob/main/Rock%2C%20Paper%2C%20Scissors.jpg)
